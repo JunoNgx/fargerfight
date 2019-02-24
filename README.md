@@ -1,4 +1,4 @@
-##Fargerfight
+## Fargerfight
 
 is an experimental local multiplayer game for smartphone, in which, both of the players participate with one single device, using one single touch. Each of the player uses their respective half of the screen to control their entity to deal damage to and defend against the opponent.
 
